@@ -73,3 +73,5 @@ After looking at the Inferential Results, I observed that it gave me 3 tests (Pe
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+In this assignment, I learned how to analyze categorical-categorical data. By using the helper file, I was able to observe data regarding females in this experiment of administered aids. There was a drug with the actual aids and there was a drug that was a placebo. After careful research, we discovered that the drug was doing the opposite of what it was supposed to be doing, since only 58% of the people got aids. This shows us that the experiment was faulty as the data was untrustworthy. The ratio of those who got the drug and those who got aids shows us that those who don't want aids should not get the drug. Also, there was not a significant difference between the drug and the placebo.
